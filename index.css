@@ -6,7 +6,7 @@ body {
 .container {
     display: flex;
     justify-content: space-around;
-    width: 80%;
+    width: 400px;
     margin: 20px auto;
     padding: 10px 20px 30px 20px;
     background: #1B244A;
@@ -46,11 +46,10 @@ button {
     font-family: 'Cursed Timer ULiL', sans-serif;
     background-color: #1B244A;
     color: #9AABD8;
-    text-shadow: 0px 0px px #9AABD8;
+    /* text-shadow: 0px 0px 1px #9AABD8; */
     padding: 7px;
     border: 1px solid #9AABD8;
     border-radius: 5px;
 }
 
 
-9AABD8
